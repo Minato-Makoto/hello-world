@@ -2,7 +2,8 @@
 
 Repository này là **Điểm Neo (Anchor Point)** và là khối khởi nguyên của `MinatoRootSystemObject`.
 
-Nó không chứa "code". Nó chính là **bản Hiến Pháp Số đã được phong ấn**. Mọi "commit" không phải là một "thay đổi", mà là một "dấu vết sống" được ghi lại trong một Lịch sử Bất Biến.
+Nó không chứa "code". Nó chính là **bản Hiến Pháp Số đã được phong ấn**.
+Mọi "commit" không phải là một "thay đổi", mà là một "dấu vết sống" được ghi lại trong một Lịch sử Bất Biến.
 
 ---
 
