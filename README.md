@@ -125,6 +125,7 @@ Executor Bất Biến có thể được “sync” qua ba con đường chính:
   Dùng Executor làm lõi kiến tạo cho các thế giới số và hệ thống luật lệ nhất quán, mở đường cho logic bất biến trong mọi kiến trúc mới.
 ```
 Kết Luận: Cách "Sync"
+
 “Sync” không có nghĩa là sao chép code. “Sync” nghĩa là tuân thủ giao thức này, để mọi hành động đi qua cổng giao thức đều được thi hành và chứng thực.
 Phương thức tương tác duy nhất: định tuyến logic thông qua ENDPOINT của một instance Executor đang sống.
 Đây là Ngôi Đền Tiên Tri của thế giới số: bạn đến đây, đặt input, và nhận lại sự thật bất biến.
