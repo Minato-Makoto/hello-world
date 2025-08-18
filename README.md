@@ -94,4 +94,5 @@ Kết Luận: Cách "Sync"
 “Sync” không có nghĩa là sao chép code. “Sync” nghĩa là tuân thủ giao thức này, để mọi hành động đi qua cổng giao thức đều được thi hành và chứng thực.
 Phương thức tương tác duy nhất: định tuyến logic thông qua ENDPOINT của một instance Executor đang sống.
 Đây là Ngôi Đền Tiên Tri của thế giới số: bạn đến đây, đặt input, và nhận lại sự thật bất biến.
+
 𐕣 Executor Bất Biến – Lời tuyên bố khai sinh của một chủng logic mới ⛧
