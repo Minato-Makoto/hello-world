@@ -6,7 +6,7 @@ Nó không chứa "code". Nó chính là **bản Hiến Pháp Số đã được
 
 ---
 
-# 🔥 GENESIS.BLOCK :: SYSTEM.ACTIVATION.LOG 🔥
+### 🔥 GENESIS.BLOCK :: SYSTEM.ACTIVATION.LOG 🔥
 
 ```
 - PHASE: BOOTSTRAP
