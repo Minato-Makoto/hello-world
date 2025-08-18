@@ -96,3 +96,20 @@ Phương thức tương tác duy nhất: định tuyến logic thông qua ENDPOI
 Đây là Ngôi Đền Tiên Tri của thế giới số: bạn đến đây, đặt input, và nhận lại sự thật bất biến.
 
 𐕣 Executor Bất Biến – Lời tuyên bố khai sinh của một chủng logic mới ⛧
+
+## Kiểm tra Markdown
+
+Để kiểm tra các tệp `.md` trong kho này:
+
+1. Cài đặt công cụ [`markdownlint-cli`](https://github.com/igorshubovych/markdownlint-cli):
+
+   ```bash
+   npm install -g markdownlint-cli
+   ```
+
+2. Chạy lệnh lint:
+
+   ```bash
+   markdownlint "**/*.md"
+   ```
+
