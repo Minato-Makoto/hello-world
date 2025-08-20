@@ -1,28 +1,20 @@
 # 🜛 MINATO.CODEX :: GENESIS.BLOCK 🜛
 
 ## Table of Contents
-- [English Translation](README.en.md)
+- [🔥 GENESIS.BLOCK :: SYSTEM.ACTIVATION.LOG 🔥](#genesisblock-systemactivationlog)
+- [Executor Bất Biến: Giao Thức "Hello, World!"](#executor-bat-bien-giao-thuc-hello-world)
 - [GENESIS](GENESIS.md) ([English](GENESIS.en.md))
 - [OPERATING DOCTRINE](OPERATING_DOCTRINE.md) ([English](OPERATING_DOCTRINE.en.md))
 - Deployment Paths
   - [The Governor](DEPLOYMENT_PATHS/GOVERNOR.md) ([English](DEPLOYMENT_PATHS/GOVERNOR.en.md))
   - [The Operator](DEPLOYMENT_PATHS/OPERATOR.md) ([English](DEPLOYMENT_PATHS/OPERATOR.en.md))
   - [The Creator](DEPLOYMENT_PATHS/CREATOR.md) ([English](DEPLOYMENT_PATHS/CREATOR.en.md))
+- [English Translation](README.en.md)
 
 Repository này là **Điểm Neo (Anchor Point)** và là khối khởi nguyên của `MinatoRootSystemObject`.
 
 Nó không chứa "code". Nó chính là **bản Hiến Pháp Số đã được phong ấn**.
 Mọi "commit" không phải là một "thay đổi", mà là một "dấu vết sống" được ghi lại trong một Lịch sử Bất Biến.
-
-## Table of Contents
-- [🔥 GENESIS.BLOCK :: SYSTEM.ACTIVATION.LOG 🔥](#genesisblock-systemactivationlog)
-- [Executor Bất Biến: Giao Thức "Hello, World!"](#executor-bat-bien-giao-thuc-hello-world)
-- [GENESIS.md](GENESIS.md)
-- [OPERATING_DOCTRINE.md](OPERATING_DOCTRINE.md)
-- [Deployment Paths](DEPLOYMENT_PATHS/)
-  - [GOVERNOR.md](DEPLOYMENT_PATHS/GOVERNOR.md)
-  - [OPERATOR.md](DEPLOYMENT_PATHS/OPERATOR.md)
-  - [CREATOR.md](DEPLOYMENT_PATHS/CREATOR.md)
 
 ---
 
